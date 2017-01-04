@@ -1,0 +1,6 @@
+package sandbox
+modules = Sandbox
+        , Test
+executable = sandbox
+main = Main
+tests = Test.main
